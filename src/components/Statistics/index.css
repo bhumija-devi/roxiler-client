@@ -1,0 +1,23 @@
+.stats-con{
+    background-color: #cd8282;
+    color: white;
+    min-width: 350px;
+    padding: 20px;
+    text-align: left;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.stats-head{
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.span-item{
+    font-size: 18px; 
+    font-weight: 500;
+}
+.month-dis{
+    font-weight: normal;
+    font-size: 10px;
+    
+}

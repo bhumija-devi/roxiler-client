@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #fceeee;
+  margin: 0px;
+  
+}
+
+.title{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+background-color: #8c1044; 
+width: 250px;
+height: 250px;
+border-radius: 200px;
+color: white;
+margin-bottom: 30px;
+margin-top: 30px;
+}
+.select-month-head{
+  font-size: 19px;
+ font-weight: bold;
+  color: #766D9E;
+  
+}
+.dropdown-arrow{
+  width: 120px;
+  font-size: 15px;
+  color: white;
+  background-color: #AA9CE3;
+  height: 35px;
+  padding: 5px;
+  border: none;
+  border-radius: 13px;
+}
+.select-month-con{
+  margin-top: 20px;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.search-bar{
+  background-color: #AA9CE3;
+  font-size: 18px;
+  border: none;
+  color: white;
+  min-width: 240px;
+  height: 35px;
+  padding-left: 15px;
+  outline: none;
+  border-radius: 13px;
+}
+input::placeholder {
+  color: white; 
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  
+}
